@@ -392,6 +392,24 @@ Featured Tours
   padding: 0.25rem 0.5rem;
 }
 
+.tour-info {
+  padding: 1.25rem 1.5rem;
+}
+
+.tour-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.tour-footer p {
+  line-height: 0;
+  margin-bottom: 0;
+  text-transform: capitalize;
+  color: var(--clr-primary-5);
+}
+
 /*
 =============== 
 Contact
