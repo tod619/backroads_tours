@@ -410,6 +410,10 @@ Featured Tours
   color: var(--clr-primary-5);
 }
 
+.tour-btn {
+  text-align: center;
+}
+
 /*
 =============== 
 Contact
