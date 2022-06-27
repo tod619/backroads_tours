@@ -218,6 +218,16 @@ Navbar
   transform: scale(1.2);
 }
 
+.nav-links {
+  height: 0;
+  overflow: hidden;
+  transition: var(--transition);
+}
+
+.show-links {
+  height: 280px;
+}
+
 .nav-link {
   display: block;
   padding: 1rem 2rem;
